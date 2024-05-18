@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* border: 5px solid black; */
+    color:#222;
+}
+.containier{
+    border: 5px solid black;
+}
+.cell{
+    padding: 2rem;
+    background: #dedede;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    border: 3px solid red;
+    color: white;
+}
+.cell-1{
+    background: #090240;
+}
+.cell-2{
+    background: #d80707;
+}
+.cell-3{
+    background: #daa811b0;
+}
+.cell-4{
+    background: #1b0305;
+}
+.cell-5{
+    background: #5946e9b1;
+}
+.cell-6{
+    background: #0d0c11b9;
+}
+.cell-7{
+    background: #334002;
+}

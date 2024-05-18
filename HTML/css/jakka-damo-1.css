@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.heading{
+    background-color: skyblue;
+    text-transform: capitalize;
+}
+p{
+    text-transform: lowercase;
+}
+.heading1{
+padding: 30px;
+
+}
+.parentDiv{
+    margin: 50px;
+}
+.heading3{
+    padding: 50px 20px 20px 20px;
+}
+.bodypart{
+    background-color: lightblue;
+    padding: 10px 20px 30px 20px;  
+    margin: 0px 20px 0px 20px;
+}
+.line1,.line2,.line3{
+    padding: 15px;
+}
+.felx{
+    display: flex;
+    
+}
+    
